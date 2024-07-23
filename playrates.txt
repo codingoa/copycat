@@ -1,0 +1,280 @@
+Abomination,5,9,0.0242
+Absorbing Man,4,4,0.129
+Adam Warlock,5,5,0.0166
+Aero,5,9,0.0063
+Agatha Harkness,6,14,0.0431
+Agent 13,1,2,0.0127
+Agent Coulson,3,4,0.2089
+Alioth,6,10,0.0909
+America Chavez,1,2,0.0321
+Angel,1,2,0.0025
+Angela,2,3,0.08539999999999999
+Annihilus,5,6,0.024900000000000002
+Ant Man,1,1,0.07429999999999999
+Apocalypse,6,6,0.022799999999999997
+Arishem,7,7,0.2518
+Armor,2,3,0.0675
+Arnim Zola,6,0,0.06709999999999999
+Attuma,4,10,0.0022
+Baron Mordo,2,3,0.0040999999999999995
+Baron Zemo,3,5,0.056900000000000006
+Bast,1,1,0.009399999999999999
+Beast,2,2,0.024300000000000002
+Beta Ray Bill,4,6,0.0176
+Bishop,3,1,0.0197
+Black Bolt,5,7,0.020099999999999996
+Black Cat,4,9,0.0124
+Black Knight,1,2,0.0131
+Black Panther,5,4,0.018600000000000002
+Black Swan,3,5,0.0092
+Black Widow,3,3,0.0374
+Blade,1,3,0.048
+Blink,5,7,0.0638
+Blob,6,0,0.2066
+Blue Marvel,5,3,0.09300000000000001
+Brood,3,2,0.0902
+Bucky Barnes,2,1,0.0169
+Cable,2,3,0.12029999999999999
+Caiera,3,4,0.0349
+Cannonball,5,7,0.0311
+Captain America,3,2,0.015600000000000001
+Captain Marvel,4,5,0.0182
+Carnage,2,2,0.08839999999999999
+Cerebro,3,0,0.006500000000000001
+Cloak,2,4,0.0098
+Colleen Wing,2,4,0.0194
+Colossus,2,3,0.009899999999999999
+Corvus Glaive,3,5,0.027200000000000002
+Cosmo,3,3,0.07780000000000001
+Crossbones,4,10,0.0161
+Crystal,3,3,0.0105
+Cull Obsidian,4,10,0.0277
+Cyclops,3,4,0.04650000000000001
+Dagger,2,0,0.0187
+Daken,3,4,0.0105
+Daredevil,2,2,0.0116
+Darkhawk,5,3,0.1772
+Dazzler,2,2,0.04769999999999999
+Deadpool,1,1,0.046799999999999994
+Death,8,12,0.081
+Deathlok,3,5,0.0608
+Debrii,3,3,0.047
+Destroyer,6,16,0.0241
+Devil Dinosaur,5,3,0.0143
+Doctor Doom,6,5,0.0604
+Doctor Octopus,5,10,0.096
+Doctor Strange,2,3,0.0121
+Domino,2,3,0.005
+Dracula,4,1,0.0255
+Drax,4,5,0
+Ebony Maw,1,7,0.042
+Echo,1,2,0.0321
+Electro,3,2,0.0248
+Elektra,1,2,0.009399999999999999
+Elsa Bloodstone,3,3,0.0236
+Enchantress,4,5,0.1104
+Falcon,2,3,0.0165
+Forge,2,2,0.0766
+Galactus,6,5,0.0308
+Gambit,3,3,0.0173
+Gamora,5,8,0.0062
+Ghost,3,5,0.0034000000000000002
+Ghost Rider,4,3,0.013600000000000001
+Ghost-Spider,1,2,0.0279
+Giganto,6,14,0.018600000000000002
+Gilgamesh,5,9,0.0594
+Gladiator,3,8,0.09910000000000001
+Goose,2,2,0.0085
+Grand Master,2,2,0.046799999999999994
+Green Goblin,3,-3,0.0562
+Groot,3,4,0.0024
+Havok,2,0,0.006
+Hawkeye,1,1,0.008
+Hazmat,2,2,0.0325
+Heimdall,6,9,0.0087
+Hela,6,6,0.0265
+Helicarrier,6,10,0.0102
+Hellcow,4,8,0.0029
+Hercules,3,4,0.0076
+High Evolutionary,4,6,0.0455
+Hit-Monkey,3,2,0.011699999999999999
+Hobgoblin,5,-8,0.0281
+Hope Summers,3,4,0.0699
+Howard the Duck,1,2,0.0085
+Hulk,6,12,0.0451
+Hulkbuster,2,3,0.0463
+Human Torch,1,2,0.018500000000000003
+Iceman,1,2,0.0271
+Invisible Woman,2,3,0.018600000000000002
+Iron Fist,1,2,0.0225
+Iron Lad,4,6,0.0529
+Iron Man,5,0,0.1115
+Ironheart,3,0,0.054299999999999994
+Jane Foster Mighty Thor,5,9,0.0339
+Jean Grey,3,4,0.009000000000000001
+Jeff the Baby Land Shark,2,3,0.1576
+Jessica Jones,4,5,0.0088
+Jubilee,4,1,0.068
+Juggernaut,3,3,0.0252
+Ka-Zar,4,4,0.0605
+Kang,5,0,0.005
+Killmonger,3,3,0.1101
+Kingpin,1,2,0.0068000000000000005
+Kitty Pryde,1,1,0.08800000000000001
+Klaw,5,4,0.0253
+Knull,6,0,0.0718
+Korg,1,2,0.050499999999999996
+Kraven,2,2,0.018500000000000003
+Lady Deathstrike,5,6,0.0144
+Lady Sif,3,5,0.042
+Leader,6,3,0.0097
+Leech,5,5,0.0592
+Legion,5,7,0.0654
+Lizard,2,5,0.049699999999999994
+Lockjaw,4,5,0.0155
+Loki,4,5,0.1898
+Luke Cage,3,3,0.0626
+M'Baku,1,2,0.0129
+M.O.D.O.K.,5,8,0.0246
+Magik,3,2,0.1597
+Magneto,6,12,0.0898
+Makkari,3,4,0.042199999999999994
+Man-Thing,4,5,0.012
+Mantis,1,2,0.0025
+Maria Hill,1,2,0.0066
+Martyr,1,5,0.0553
+Master Mold,2,2,0.006
+Maximus,2,6,0.0553
+Medusa,2,2,0.013999999999999999
+Miek,1,0,0.0068000000000000005
+Miles Morales,4,5,0.0191
+Mirage,2,2,0.0176
+Mister Fantastic,3,2,0.0083
+Mister Negative,4,-1,0.034
+Mister Sinister,2,2,0.022400000000000003
+Misty Knight,1,2,0.0361
+Mobius M. Mobius,3,3,0.0754
+Mockingbird,5,9,0.2774
+Mojo,2,2,0.0111
+Moon Girl,4,4,0.0128
+Moon Knight,3,3,0.0053
+Morbius,2,0,0.023399999999999997
+Morph,3,0,0.0177
+Ms. Marvel,4,4,0.0169
+Multiple Man,2,3,0.0147
+Mysterio,2,4,0.062
+Mystique,3,0,0.1924
+Nakia,3,3,0.0277
+Namor,4,6,0.0044
+Namora,5,6,0.018799999999999997
+Nebula,1,1,0.0758
+Negasonic Teenage Warhead,3,2,0.0191
+Nick Fury,4,5,0.08789999999999999
+Nico Minoru,1,2,0.12390000000000001
+Nightcrawler,1,2,0.042300000000000004
+Nimrod,5,6,0.0215
+Nocturne,3,5,0.1452
+Nova,1,1,0.0431
+Odin,6,8,0.06480000000000001
+Okoye,2,2,0.0321
+Omega Red,4,5,0.011399999999999999
+Onslaught,6,7,0.0452
+Orka,6,11,0.0027
+Patriot,3,1,0.025699999999999997
+Phastos,3,3,0.11539999999999999
+Phoenix Force,4,5,0.0126
+Pixie,2,1,0.0137
+Polaris,3,5,0.0106
+Professor X,5,2,0.0204
+Proxima Midnight,4,7,0.0155
+Psylocke,2,2,0.0519
+Punisher,3,3,0.0075
+Quake,2,3,0.0128
+Quicksilver,1,2,0.0044
+Quinjet,1,2,0.2021
+Ravonna Renslayer,2,3,0.0931
+Red Guardian,3,3,0.0755
+Red Hulk,6,11,0.0832
+Red Skull,5,14,0.0108
+Rescue,4,4,0
+Rhino,3,3,0.0021
+Rocket Raccoon,1,1,0.018000000000000002
+Rockslide,3,3,0.042
+Rogue,3,2,0.2065
+Ronan the Accuser,5,5,0.062
+Sabretooth,3,4,0.0096
+Sage,3,0,0.0661
+Sandman,5,7,0.019799999999999998
+Sasquatch,6,11,0.0341
+Sauron,3,2,0.0083
+Scarlet Witch,2,3,0.0127
+Scorpion,2,2,0.0282
+Sebastian Shaw,3,4,0.0588
+Selene,1,2,0.0072
+Sentinel,2,3,0.008100000000000001
+Sentry,4,8,0.024300000000000002
+Sera,5,4,0.11410000000000001
+Sersi,5,7,0.0526
+Shadow King,2,2,0.0729
+Shang-Chi,4,3,0.38049999999999995
+Shanna,3,4,0.0771
+She-Hulk,6,10,0.0493
+Shocker,2,3,0.0103
+Shuri,4,1,0.0353
+Silk,2,5,0.04190000000000001
+Silver Samurai,4,5,0.0132
+Silver Surfer,3,2,0.08349999999999999
+Skaar,6,10,0.023700000000000002
+Snowguard,1,2,0.0384
+Spectrum,6,7,0.0154
+Spider-Ham,1,1,0.0705
+Spider-Man,3,5,0.0127
+Spider-Man 2099,5,9,0.0127
+Spider-Woman,5,8,0.0143
+Squirrel Girl,1,2,0.09609999999999999
+Star-Lord,2,2,0.0032
+Stature,5,7,0.02
+Stegron,4,7,0.0078000000000000005
+Storm,3,2,0.0361
+Strong Guy,3,3,0.0066
+Sunspot,1,0,0.0747
+Super-Skrull,4,2,0.0527
+Supergiant,4,5,0.0059
+Swarm,2,3,0.0246
+Sword Master,3,7,0.0076
+Taskmaster,5,0,0.0338
+Thanos,6,10,0.016200000000000003
+The Collector,2,2,0.0213
+The Hood,1,-3,0.0436
+The Infinaut,6,20,0.052199999999999996
+The Living Tribunal,6,9,0.0288
+The Thing,4,6,0.023399999999999997
+Thena,2,1,0.0672
+Thor,3,4,0.0199
+Titania,1,5,0.0341
+Typhoid Mary,4,10,0.013999999999999999
+U.S. Agent,2,3,0.0155
+Uatu the Watcher,1,2,0
+Ultron,6,8,0.0248
+Valentina,2,3,0.0208
+Valkyrie,5,3,0.006500000000000001
+Venom,3,3,0.0892
+Viper,3,5,0.015300000000000001
+Vision,5,8,0.042699999999999995
+Vulture,3,3,0.0113
+War Machine,4,6,0.0069
+Warpath,4,5,0.003
+Wasp,0,1,0.031400000000000004
+Wave,3,5,0.051699999999999996
+Werewolf By Night,4,4,0.005699999999999999
+White Queen,4,6,0.0108
+White Tiger,5,1,0.0213
+White Widow,2,2,0.1417
+Wolfsbane,3,1,0.0196
+Wolverine,2,2,0.0691
+Wong,4,2,0.0732
+X-23,1,2,0.0635
+Yellowjacket,0,2,0.006999999999999999
+Yondu,1,2,0.0344
+Zabu,2,3,0.0137
+Zero,1,3,0.0146
